@@ -1,0 +1,24 @@
+[
+  {
+    "id": "1",
+    "name": "Julia Child",
+    "url": "https://images.unsplash.com/photo-1494597564530-871f2b93ac55?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1113&q=80",
+    "experience": "8 years",
+    "numberOfRecipes": "10",
+    "likes": "1500",
+    "rating": "4.5",
+    "methodOfCookies": "Preheat the oven to 350°F (180°C). Cream the butter and sugars until light and fluffy. Beat in the eggs and vanilla extract. Sift the flour, baking powder, and salt together and mix into the butter mixture. Stir in the chocolate chips. Drop by spoonfuls onto a greased baking sheet and bake for 10 to 12 minutes, or until lightly browned.",
+    "description": "Julia Child's boeuf bourguignon is a classic French dish that is hearty and flavorful. It's a perfect comfort food for a cold day, and it's also great for a special occasion. The beef is slowly cooked in red wine, which gives it a deep, rich flavor. The dish also features bacon, onions, mushrooms, and carrots, all of which contribute to the overall deliciousness of the dish."
+  },
+  {
+    "id": "2",
+    "name": "Julia Child",
+    "url": "https://images.unsplash.com/photo-1494597564530-871f2b93ac55?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1113&q=80",
+    "experience": "8 years",
+    "numberOfRecipes": "10",
+    "likes": "1500",
+    "rating": "4.5",
+    "methodOfCookies": "Preheat the oven to 350°F (180°C). Cream the butter and sugars until light and fluffy. Beat in the eggs and vanilla extract. Sift the flour, baking powder, and salt together and mix into the butter mixture. Stir in the chocolate chips. Drop by spoonfuls onto a greased baking sheet and bake for 10 to 12 minutes, or until lightly browned.",
+    "description": "Julia Child's boeuf bourguignon is a classic French dish that is hearty and flavorful. It's a perfect comfort food for a cold day, and it's also great for a special occasion. The beef is slowly cooked in red wine, which gives it a deep, rich flavor. The dish also features bacon, onions, mushrooms, and carrots, all of which contribute to the overall deliciousness of the dish."
+  }
+]
